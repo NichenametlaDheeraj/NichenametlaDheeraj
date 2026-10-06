@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dheeraj Nichenametla
+# 👋 Hi, I'm Nichenametla Dheeraj 
 
 <h3 align="center">
 🚀 Python Full Stack Developer | Django Enthusiast | B.Sc Computer Science Student
